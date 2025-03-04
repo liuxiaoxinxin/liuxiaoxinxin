@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liujixin
 - 👀 I’m interested in iOS/React/Flutter and Nodejs
-- 🌱 I’m currently learning embedded(EE)
 - 📫 email: liujixin87@gmail.com reach me.
 
 <!---
